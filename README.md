@@ -1,0 +1,1 @@
+Welcome to the E-Locate App! This application helps users discover and explore businesses, institutions, and services around them using Google Maps. It not only displays businesses by category but also provides detailed information about the services they offer and directions to their premises.
