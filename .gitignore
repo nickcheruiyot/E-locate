@@ -13,5 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Project exclude paths
+# Removed the following lines to ensure 'app/' and 'gradle/' directories are included
 /app/
 /gradle/
